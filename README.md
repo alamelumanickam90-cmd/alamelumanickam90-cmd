@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Alamelu Manickam
+Data Analyst | Power BI • Tableau • SQL • Snowflake • Excel
+📍 Dublin, Ireland
 
-<!--
-**alamelumanickam90-cmd/alamelumanickam90-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About Me
+Data Analyst with 3+ years of experience building dashboards, automating reporting, and delivering analytics solutions. Skilled in Power BI, Tableau, SQL, Snowflake, and Excel. Passionate about turning raw data into clear insights.
 
-Here are some ideas to get you started:
+💼 Experience
+Infocepts – Power BI, Snowflake, Excel automation
+Standard Chartered Bank – Tableau, Hive SQL, ETL workflows
+🛠️ Skills
+SQL | Power BI | Tableau | Snowflake | Excel | Hive | Git | Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Certifications
+Tableau Desktop Specialist
+Power BI Desktop (Udemy)
+Process Excellence – SCB
+Business Value First – SCB
