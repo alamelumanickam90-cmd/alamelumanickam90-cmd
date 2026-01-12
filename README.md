@@ -1,11 +1,15 @@
 👋 Hi, I'm Alamelu Manickam
 Data Analyst  Power BI • Tableau • SQL • Snowflake • Excel
 📍 Dublin, Ireland
+
 🔍 About Me
 Data Analyst with 3+ years of experience building dashboards, automating reporting, and delivering analytics solutions. Skilled in Power BI, Tableau, SQL, Snowflake, and Excel. Passionate about transforming raw data into clear, actionable insights.
+
 💼 Experience
 Infocepts – Tableau, Power BI, Snowflake, SQL, Excel, Automation
+
 🛠️ Skills
 SQL  Power BI  Tableau  Snowflake  Excel  Hive  Git  Jira
+
 🎓 Certifications
 Tableau Desktop Specialist
