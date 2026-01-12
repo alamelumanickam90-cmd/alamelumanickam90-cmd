@@ -6,8 +6,9 @@ Data Analyst | Power BI • Tableau • SQL • Snowflake • Excel
 Data Analyst with 3+ years of experience building dashboards, automating reporting, and delivering analytics solutions. Skilled in Power BI, Tableau, SQL, Snowflake, and Excel. Passionate about turning raw data into clear insights.
 
 💼 Experience
-Infocepts – Power BI, Snowflake, Excel automation
-Standard Chartered Bank – Tableau, Hive SQL, ETL workflows
+Infocepts – Tableau, Power BI, Snowflake, SQL, Excel, Automation
+
+
 🛠️ Skills
 SQL | Power BI | Tableau | Snowflake | Excel | Hive | Git | Jira
 
