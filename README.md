@@ -13,6 +13,3 @@ SQL | Power BI | Tableau | Snowflake | Excel | Hive | Git | Jira
 
 🎓 Certifications
 Tableau Desktop Specialist
-Power BI Desktop (Udemy)
-Process Excellence – SCB
-Business Value First – SCB
