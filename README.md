@@ -8,8 +8,8 @@ Data Analyst with 3+ years of experience building dashboards, automating reporti
 💼 Experience
 Infocepts – Tableau, Power BI, Snowflake, SQL, Excel, Automation
 
-🛠️ Skills
+🛠️ Skills -
 SQL  Power BI  Tableau  Snowflake  Excel  Hive  Git  Jira
 
-🎓 Certifications
+🎓 Certifications -
 Tableau Desktop Specialist
